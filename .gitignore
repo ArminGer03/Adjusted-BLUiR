@@ -1,2 +1,13 @@
+# Maven build output
 /target/
-\data
+
+# Local datasets and experiment artifacts
+/data/
+/Settings.txt
+
+# IDE metadata
+/.idea/
+*.iml
+
+# Operating-system metadata
+.DS_Store
